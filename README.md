@@ -1,4 +1,4 @@
-<h1 align="center">30 dias de Components React</h1>
+<h1 align="center">Criando Components Funcionais em React</h1>
 
 <p align="center">Este projeto foi construído para criar habilidades de desenvolvimento com a biblioteca  <a href="https://pt-br.reactjs.org/">🔗 React</a></p>
 
