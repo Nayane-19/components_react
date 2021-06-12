@@ -1,10 +1,10 @@
 <h1 align="center">Criando Tela de Login com React</h1>
 
-<p align="center"><img src="#"/></p>
+<p align="center"><img src="https://media.giphy.com/media/Hrdv5AZnOiU2RwG8Mu/giphy.gif"/></p>
 
 ## Dependências
 
-- yarn add styled-components
+- yarn add node-sass
 
 ## Ícones para commits padrão
 

@@ -26,8 +26,8 @@ class App extends Component {
 
   render (){
     const {isLogginActive} = this.state;
-    const current = isLogginActive ? "Register" : "Login";
-    const currentActive = isLogginActive ? "login" : "register"; 
+    const current = isLogginActive ? "Registrar" : "Entrar";
+    const currentActive = isLogginActive ? "entrar" : "registrar"; 
     return (
       <div className="App">
         <div className="login">
